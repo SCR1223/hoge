@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Amperage theme!</title>
+    <link>https://scr1223.github.io/freja/./tags/</link>
+    <description>Recent content in Tags on Amperage theme!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Dec 2019 12:09:32 +0200</lastBuildDate>
+    
+	<atom:link href="https://scr1223.github.io/freja/./tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>amperage</title>
+      <link>https://scr1223.github.io/freja/./tags/amperage/</link>
+      <pubDate>Mon, 23 Dec 2019 12:09:32 +0200</pubDate>
+      
+      <guid>https://scr1223.github.io/freja/./tags/amperage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://scr1223.github.io/freja/./tags/emoji/</link>
+      <pubDate>Mon, 23 Dec 2019 12:09:32 +0200</pubDate>
+      
+      <guid>https://scr1223.github.io/freja/./tags/emoji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://scr1223.github.io/freja/./tags/markdown/</link>
+      <pubDate>Mon, 23 Dec 2019 12:09:32 +0200</pubDate>
+      
+      <guid>https://scr1223.github.io/freja/./tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://scr1223.github.io/freja/./tags/text/</link>
+      <pubDate>Mon, 23 Dec 2019 12:09:32 +0200</pubDate>
+      
+      <guid>https://scr1223.github.io/freja/./tags/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag</title>
+      <link>https://scr1223.github.io/freja/./tags/tag/</link>
+      <pubDate>Mon, 16 Sep 2019 12:33:32 +0200</pubDate>
+      
+      <guid>https://scr1223.github.io/freja/./tags/tag/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

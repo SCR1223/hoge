@@ -1,0 +1,71 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>https://scr1223.github.io/freja/./tags/amperage/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://scr1223.github.io/freja/./</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://scr1223.github.io/freja/./tags/emoji/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://scr1223.github.io/freja/./test/emoji-support/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://scr1223.github.io/freja/./tags/markdown/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://scr1223.github.io/freja/./test/markdown-syntax/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://scr1223.github.io/freja/./test/placeholder-text/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://scr1223.github.io/freja/./tags/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://scr1223.github.io/freja/./test/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://scr1223.github.io/freja/./tags/text/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://scr1223.github.io/freja/./tags/tag/</loc>
+        <lastmod>2019-09-16T12:33:32+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://scr1223.github.io/freja/./test/yet-another-test-post/</loc>
+        <lastmod>2019-09-16T12:33:32+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+</urlset>
